@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "external-sort": "^1.0.0"
+  },
+  "type": "module"
+}
